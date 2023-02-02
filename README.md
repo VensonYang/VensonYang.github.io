@@ -1,6 +1,6 @@
-[![Website](https://img.shields.io/website-up-down-green-red/http://venson.me.svg)](http://venson.me/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/venson.me.svg)](http://venson.me/)
 [![License](https://img.shields.io/github/license/VensonYang/VensonYang.github.io.svg)](/LICENSE)
-[![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)](https://saythanks.io/to/dmego)
+[![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)](https://saythanks.io/to/venson)
 
 ### 个人主页
 
