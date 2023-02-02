@@ -1,5 +1,5 @@
-[![Website](https://img.shields.io/website-up-down-green-red/http/i.dmego.cn.svg)](http://i.dmego.cn/)
-[![License](https://img.shields.io/github/license/dmego/home.github.io.svg)](/LICENSE)
+[![Website](https://img.shields.io/website-up-down-green-red/http://venson.me.svg)](http://venson.me/)
+[![License](https://img.shields.io/github/license/VensonYang/VensonYang.github.io.svg)](/LICENSE)
 [![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)](https://saythanks.io/to/dmego)
 
 ### 个人主页
@@ -14,7 +14,13 @@
 
 ### 效果图
 
+>静态图
+
 ![主页JPG](./assets/img/home.jpg)
+
+>动态图
+
+![主页GIF](./assets/img/home.gif)
 
 ### 注
 
