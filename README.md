@@ -42,7 +42,3 @@
 - 2023-02-02
   - 发布 NPM 包，使用 UNPKG 作为资源文件的 CDN 
 
-
-### Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=VensonYang/VensonYang.github.io&type=Date)](https://star-history.com/#VensonYang/VensonYang.github.io&Date)
-
