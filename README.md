@@ -14,8 +14,6 @@
 
 ### 效果图
 
->静态图
-
 ![主页JPG](./assets/img/home.jpg)
 
 ### 注
