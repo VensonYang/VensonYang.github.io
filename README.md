@@ -36,3 +36,13 @@
 - 在仓库的 `Settings` ——>`Secrets` 功能栏中，点击 `new repository secrets` 按钮
   -  在 `Name` 框中填写 `GH_TOKEN`
   - 在 `Value` 栏中填写第一步生成的 `token` 值
+
+
+### 更新记录
+- 2023-02-02
+  - 发布 NPM 包，使用 UNPKG 作为资源文件的 CDN 
+
+
+### Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=VensonYang/VensonYang.github.io&type=Date)](https://star-history.com/#VensonYang/VensonYang.github.io&Date)
+
